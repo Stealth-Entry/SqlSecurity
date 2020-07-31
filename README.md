@@ -9,3 +9,15 @@ Contains Multiple Select Statements
 
 To Run: Open the Sql Query File in Sql Server Management Studio and Execute.
 Results: This will diplay sql databases that have encryption enabled.
+
+# Search Database
+Contains Features to search all tables within a database for a particular string value.
+
+To Run: 
+Open the Sql Query File in Sql Server Management Studio.
+Replace the DATABASE_NAME Placeholder with the name of the database being searched
+Replace the Search_Text Placeholder with the string you wish to serach for
+Execute
+
+Results: This will display all found instances of the string as well as which table they reside in.
+
