@@ -10,7 +10,7 @@ Contains Multiple Select Statements
 To Run: Open the Sql Query File in Sql Server Management Studio and Execute.
 Results: This will diplay sql databases that have encryption enabled.
 
-# Search Database
+# SearchDatabase.sql
 Contains Features to search all tables within a database for a particular string value.
 
 To Run: 
@@ -21,5 +21,5 @@ Execute
 
 Results: This will display all found instances of the string as well as which table they reside in.
 
-# Migrate Entity Framework ASP.Net Local Database to Sql Server
+# EntityFramework_LocalToSql.sql
 Contains the required scripts to migrate a local/dev ASP.Net User and Role Management Database from the attached local database in the web.config to Sql Server
