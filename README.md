@@ -21,3 +21,5 @@ Execute
 
 Results: This will display all found instances of the string as well as which table they reside in.
 
+# Migrate Entity Framework ASP.Net Local Database to Sql Server
+Contains the required scripts to migrate a local/dev ASP.Net User and Role Management Database from the attached local database in the web.config to Sql Server
